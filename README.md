@@ -1,4 +1,6 @@
 ## Hi there 👋
+# Jiawei Yang
+202383014@uibe.edu.cn
 
 <!--
 **outlier27-cell/outlier27-cell** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
