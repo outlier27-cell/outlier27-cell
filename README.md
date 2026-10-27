@@ -15,28 +15,23 @@ I work at the intersection of **AI agents, scientific knowledge extraction, and 
 
 我关注多智能体协作、科研图表与表格理解、知识图谱，以及从研究原型到可靠工具的工程实践。
 
-- **Education** · B.Eng. student in Data Science and Big Data Technology at the University of International Business and Economics (UIBE).
 - **Research experience** · Multimodal information extraction and scientific-document processing at the Chinese Academy of Sciences.
 - **Building** · Agent evaluation environments, evidence-aware research assistants, and full-stack applications.
 - **Contributing** · Agent runtimes, diagram tooling, accessibility, and Windows compatibility.
 
 <h2 id="education">Education · 教育背景</h2>
 
-**University of International Business and Economics · 对外经济贸易大学**<br />
-School of Artificial Intelligence and Data Science · 人工智能与数据科学学院
+<h3>对外经济贸易大学 <sub>UIBE</sub></h3>
 
-- **Degree** · B.Eng. in Data Science and Big Data Technology, in progress · 数据科学与大数据技术（工学学士，在读）
-- **Period** · September 2023–present · 2023.09–至今
-- **Academic record** · Average score **90.56/100** · Major rank **1/34**
-- **Selected coursework** · Natural Language Processing **100/100** · Data Visualization **99/100**
+University of International Business and Economics<br />
+人工智能与数据科学学院 · 数据科学与大数据技术<br />
+<sub>B.Eng. in progress · School of Artificial Intelligence and Data Science · September 2023–present</sub>
 
-**Tsinghua Shenzhen International Graduate School · 清华大学深圳国际研究生院**
+<h3>清华大学深圳国际研究生院 <sub>TSINGHUA SIGS</sub></h3>
 
-- **Program** · Master's program in Electronic Information · 电子信息硕士
-- **Direction** · Internet + Innovation Design · 互联网+创新设计
-- **Admission status** · Preliminary admission through postgraduate recommendation · **推免初步录取**
-
-**Selected honors · 获奖情况** · 国家励志奖学金 · 计算机设计大赛全国三等奖 · 华北五省计算机应用大赛国家级一等奖
+Tsinghua Shenzhen International Graduate School<br />
+电子信息硕士 · 互联网+创新设计方向 · **推免初步录取**<br />
+<sub>Master's program in Electronic Information · Internet + Innovation Design · Preliminary admission through postgraduate recommendation</sub>
 
 <h2 id="selected-work">Selected work</h2>
 
