@@ -1,4 +1,4 @@
-<p align="center"><img src="assets/hero.svg" width="100%" alt="Jiawei Yang / IceClod — AI agents, scientific knowledge, reliable software." /></p>
+<p align="center"><img src="assets/hero.svg" width="100%" alt="IceClod — AI agents, scientific knowledge, reliable software." /></p>
 
 <p align="center">
   <a href="#about">About</a> &nbsp; / &nbsp;
@@ -9,7 +9,7 @@
   <a href="mailto:202383014@uibe.edu.cn">Contact ↗</a>
 </p>
 
-<h2 id="about">Hi, I'm Jiawei · 杨嘉伟</h2>
+<h2 id="about">Hi, I'm IceClod</h2>
 
 I work at the intersection of **AI agents, scientific knowledge extraction, and reliable software**. I like turning research ideas into inspectable workflows: clear evidence, explicit boundaries, and tools people can actually use.
 
@@ -100,4 +100,4 @@ I contribute through reproductions, focused fixes, regression tests, and review 
 ---
 
 <p align="center"><strong>Have a research question or an open-source problem worth solving?</strong><br /><a href="mailto:202383014@uibe.edu.cn">202383014@uibe.edu.cn</a></p>
-<p align="center"><sub>Jiawei Yang · IceClod &nbsp; / &nbsp; Research with evidence. Build with care.</sub></p>
+<p align="center"><sub>IceClod &nbsp; / &nbsp; Research with evidence. Build with care.</sub></p>
